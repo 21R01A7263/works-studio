@@ -1,3 +1,124 @@
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('./fonts/FreightBigPro-BlackItalic.woff2') format('woff2'),
+        url('./fonts/FreightBigPro-BlackItalic.woff') format('woff'),
+        url('./fonts/FreightBigPro-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('./fonts/FreightBigPro-Black.woff2') format('woff2'),
+        url('./fonts/FreightBigPro-Black.woff') format('woff'),
+        url('./fonts/FreightBigPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('./fonts/FreightBigPro-BoldItalic.woff2') format('woff2'),
+        url('./fonts/FreightBigPro-BoldItalic.woff') format('woff'),
+        url('./fonts/FreightBigPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('./fonts/FreightBigPro-LightItalic.woff2') format('woff2'),
+        url('./fonts/FreightBigPro-LightItalic.woff') format('woff'),
+        url('./fonts/FreightBigPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('./fonts/FreightBigPro-Book.woff2') format('woff2'),
+        url('./fonts/FreightBigPro-Book.woff') format('woff'),
+        url('./fonts/FreightBigPro-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('./fonts/FreightBigPro-Medium.woff2') format('woff2'),
+        url('./fonts/FreightBigPro-Medium.woff') format('woff'),
+        url('./fonts/FreightBigPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('./fonts/FreightBigPro-Semibold.woff2') format('woff2'),
+        url('./fonts/FreightBigPro-Semibold.woff') format('woff'),
+        url('./fonts/FreightBigPro-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('./fonts/FreightBigPro-SemiboldItalic.woff2') format('woff2'),
+        url('./fonts/FreightBigPro-SemiboldItalic.woff') format('woff'),
+        url('./fonts/FreightBigPro-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('./fonts/FreightBigPro-Light.woff2') format('woff2'),
+        url('./fonts/FreightBigPro-Light.woff') format('woff'),
+        url('./fonts/FreightBigPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('./fonts/FreightBigPro-BookItalic.woff2') format('woff2'),
+        url('./fonts/FreightBigPro-BookItalic.woff') format('woff'),
+        url('./fonts/FreightBigPro-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('./fonts/FreightBigPro-Bold.woff2') format('woff2'),
+        url('./fonts/FreightBigPro-Bold.woff') format('woff'),
+        url('./fonts/FreightBigPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('./fonts/./fonts/FreightBigPro-MediumItalic.woff2') format('woff2'),
+        url('./fonts/FreightBigPro-MediumItalic.woff') format('woff'),
+        url('./fonts/FreightBigPro-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+
 * {
     margin: 0;
     padding: 0;
